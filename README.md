@@ -1,7 +1,7 @@
 # 🌟 Arduino Mastery Course — From Sensors to Smart Systems
 
 ### 👨‍🏫 Instructor: *Your Tutor (ChatGPT)*
-### 🕒 Duration: ~10 Days
+### 🕒 Duration: ~4 WEEKS
 ### 🎯 Goal: Learn to design, build, and program intelligent hardware systems with Arduino.
 
 ---
